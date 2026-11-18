@@ -3,8 +3,8 @@
   --bg-soft: #10131d;
   --text: #f8f4ea;
   --muted: #b8b5ae;
-  --gold: #0a2b73; /*blue:#0a2b73 */
-  --gold-soft: rgba(10, 43, 115, 0.8);
+  --gold: #ffa500; /*blue:#0a2b73 */
+  --gold-soft: rgba(255, 162, 0, 0.8);
   --border: rgba(255,255,255,.14);
   --danger: #e9a3a3;
 }
@@ -34,7 +34,7 @@ button, input { font: inherit; }
 
   background:
     linear-gradient(rgba(5, 7, 12, 0.55), rgba(5, 7, 12, 0.65)),
-    url("compalogo.png") center center / cover no-repeat;
+    url("WhatsApp Image 2026-11-17 at 20.37.12.jpeg") center center / cover no-repeat;
 }
 
 .site-shell::after {
